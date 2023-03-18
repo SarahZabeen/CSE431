@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/5394221744nmtbppgzjpjt
 
 Link to unlisted YouTube video:
 https://youtube.com/.....
@@ -8,13 +8,11 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Project title:
-NLP using ANN
+Robust Fake Review Identification using Monte Carlo Dropout-based Switch Transformer
 
 Group Number:
-0
+11
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+19241004 Sarah Zabeen
+20101301 Alina Hasan
