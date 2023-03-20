@@ -2,10 +2,10 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/5394221744nmtbppgzjpjt
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/HsQJaFtDWyo
 
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+Public link to the slide:
+https://docs.google.com/presentation/d/190fNy5UmULcXfvOLC9-rGmDw6KidZRJUvRdH3lNv7B8/edit?usp=drivesdk
 
 Project title:
 Robust Fake Review Identification using Monte Carlo Dropout-based Switch Transformer
