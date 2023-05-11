@@ -11,10 +11,10 @@ Paper title:
 Robust Fake Review Detection using Uncertainty-Aware LSTM and BERT
 
 Paper presentation (anyone can view without login):
-
+https://drive.google.com/file/d/1ZKx5Ef1IPaz82IVnLBZBghZTRCFisfgV/view?usp=share_link
 
 Paper submission date (to workshop/conference):
-12 May 2023
+11 May 2023
 
 Paper submission ID: (received) from conference/workshop
 1570913088
