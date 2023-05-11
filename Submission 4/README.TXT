@@ -4,6 +4,9 @@ https://www.overleaf.com/read/dbqnzpmdkrdq
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=-ikM0TU1jyM&ab_channel=ALINAHASAN
 
+Conference submitted paper / paper submission / login Link:
+https://edas.info/index.php?c=30837
+
 Paper title:
 Robust Fake Review Detection using Uncertainty-Aware LSTM and BERT
 
