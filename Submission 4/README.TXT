@@ -9,6 +9,7 @@ https://edas.info/index.php?c=30837
 
 Paper title:
 Robust Fake Review Detection using Uncertainty-Aware LSTM and BERT
+(Previously known as Robust Fake Review Detection using NLP Classification Models, recommended to change by ST)
 
 Paper presentation (anyone can view without login):
 https://drive.google.com/file/d/1rq9Nu1kgOhq7uOycOEWjl_D_krzIy4iN/view?usp=share_link
