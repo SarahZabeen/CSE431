@@ -25,5 +25,5 @@ Group Number:
 11
 
 Group Members:
-Sarah Zabeen, 19241004
-Alina Hasan, 20101301
+19241004 Sarah Zabeen
+20101301 Alina Hasan
